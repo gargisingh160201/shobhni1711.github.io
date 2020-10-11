@@ -3,10 +3,10 @@ This project is a sign language alphabet recognizer using Python, openCV and ten
 The framework used for the CNN implementation can be found here:
 Requirements:
 This project uses python 3.6 and the PIP following packages:
-opencv
-tensorflow
-matplotlib
-numpy
+*opencv
+*tensorflow
+*matplotlib
+*numpy
 
 CLASSIFICATION:
 
