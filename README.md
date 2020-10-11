@@ -8,7 +8,7 @@ This project uses python 3.6 and the PIP following packages:
 *matplotlib
 *numpy
 
-CLASSIFICATION:
+####CLASSIFICATION:
 
 CNNs apply a series of filters to the raw pixel data of an image to extract and learn higher-level features, which the model can then use for classification. CNNs contains three components:
 Convolutional layers, which apply a specified number of convolution filters to the image. For each subregion, the layer performs a set of mathematical operations to produce a single value in the output feature map. Convolutional layers then typically apply a ReLU activation function to the output to introduce nonlinearities into the model.
